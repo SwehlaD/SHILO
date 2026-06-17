@@ -1,1 +1,2 @@
-# SHILO
+# SHILO DEMO
+Redesigned Shilo Website
